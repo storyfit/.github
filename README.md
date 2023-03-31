@@ -1,2 +1,3 @@
-# .github
-github public information
+# StoryFit Engineering
+
+To learn more about StoryFit, see [our webpage](https://storyfit.com)
